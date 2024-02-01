@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=VictorKabata&count_private=true&show_icons=true&theme=dark" alt="Victor Kabata" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorKabata&hide=html&langs_count=8&layout=compact&theme=dark" alt="Victor Kabata" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shadrackkiprotich&count_private=true&show_icons=true&theme=dark" alt="Shadrack Kiprotich" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadrackkiprotich&hide=html&langs_count=8&layout=compact&theme=dark" alt="Shadrack Kiprotich" height="165" />
  </p>
 
-### Technical Articles
+
 
 
 
